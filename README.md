@@ -26,11 +26,11 @@ Repositori ini berisi kumpulan tugas praktikum mata kuliah Pembelajaran Mesin (M
 | JS05     | Klasterisasi hierarki               | [JS05](./JS05) |
 | JS06     | Regresi                             | [JS06](./JS06) |
 | JS07     | ANN (Approximate Nearest Neighbors) | [JS07](./JS07) |
-| JS08     | KUIS 1                              | [JS08](./JS08) |
+| KUIS     | KUIS 1                              | [JS08](./JS08) |
 | JS09     | Klasifikasi                         | [JS09](./JS09) |
-| JS10     | UTS                                 | [JS10](./JS10) |
+| JS08     | UTS                                 | [JS10](./JS10) |
 | JS11     | Klasifikasi 2                       | [JS11](./JS11) |
-| JS12     | Tugas Kelompok                      | [JS12](./JS12) |
+| Kelompok | Tugas Kelompok                      | [JS12](./JS12) |
 | JS13     | ANN (Artificial NeuralNetwork)      | [JS13](./JS13) |
 | JS14     | Convolutional Neural Network        | [JS14](./JS14) |
 
